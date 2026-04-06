@@ -31,7 +31,7 @@ After Heinz, I hope to work as a policy analyst or researcher within education o
 
 # Portfolio
 
-## Visualizing Government Debt: [View Project](visualizing-government-debt)
+## Visualizing Government Debt: [View Project](dataviz-examples)
 
 ## Assignment 3&4: [View Project](critique-by-design)
 
