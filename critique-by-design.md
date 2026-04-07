@@ -5,8 +5,9 @@
 ## Step one: the visualization
 [ Demographics of Social Media Users and Adoption in the United States | Pew Research Center](https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213&cb_viewport=desktop#who-uses-each-social-media-platform)
 
-For my data visualization, I selected a pew research report on social media usage across different platforms based on demographics. This report caught my interest given the increased usage of social media amongst young people. I also think different platforms are beginning to merge and offer identical services, so its interesting to look at which apps are surviving this competitive field and which ones seem to be dying out or losing traction. The report had two types of visualizations, the top one is a multi-linear graph that shows which platforms adults in the U.S. report using. The first visual does not separate responses by demographics. I chose to do the second visualization which is the table that actually separates survey responses by different groups. While there were different demographics like age, gender, race/ethnicity, household income, education, community, and party ID, I chose to focus on age because it had the most stark data. Additionally, I thought this would be a good place to start given that there was a lot of creative freedom given that the original was just a table. 
+<img width="871" height="898" alt="image" src="https://github.com/user-attachments/assets/7439587b-63b4-4944-b056-a75c68dda57d" />
 
+For my data visualization, I selected a pew research report on social media usage across different platforms based on demographics. This report caught my interest given the increased usage of social media amongst young people. I also think different platforms are beginning to merge and offer identical services, so its interesting to look at which apps are surviving this competitive field and which ones seem to be dying out or losing traction. The report had two types of visualizations, the top one is a multi-linear graph that shows which platforms adults in the U.S. report using. The first visual does not separate responses by demographics. I chose to do the second visualization which is the table that actually separates survey responses by different groups. While there were different demographics like age, gender, race/ethnicity, household income, education, community, and party ID, I chose to focus on age because it had the most stark data. Additionally, I thought this would be a good place to start given that there was a lot of creative freedom given that the original was just a table. 
 
 ## Step two: the critique
 
@@ -28,9 +29,13 @@ It does not guide the viewer toward a key insight or story, nor does it invite e
 ## Step three: Sketch a solution
 
 ### Sketch 1:
+<img width="1056" height="776" alt="image" src="https://github.com/user-attachments/assets/e1bc95ab-e733-436d-b21d-82c6b53c4090" />
+
 My initial approach was to transform the table into a heatmap using Datawrapper to improve visual clarity and make patterns easier to identify. Visually, the heatmap is appealing and does help highlight general trends, such as higher platform usage among younger age groups and a clear decline across older groups. However, this format has limitations when it comes to comparison. While the color gradient signals differences, it does not effectively communicate the magnitude of those differences. Additionally, because all values are encoded through color rather than position or length, it requires more effort to compare across platforms or age groups. Overall, while the heatmap improved aesthetics, it is not the most effective choice for detailed comparison, thus I decided to move away from this type of design. 
 
 ### Sketch 2: 
+<img width="1030" height="900" alt="image" src="https://github.com/user-attachments/assets/af1f112e-8741-465c-9dad-d74d96a6ad11" />
+
 For my second visual, I shifted from a heatmap to a stacked bar chart to support comparison across age groups. While both designs use color, the role of color changes in this visual. Instead of representing intensity (as in the heatmap), color is now used to distinguish age groups, while bar length shows the actual values. This makes differences in platform usage more intuitive to compare.
 
 This approach highlights the gaps in usage between the different age groups. For example, the decline in Instagram usage from younger to older groups, or the consistency of YouTube across all ages, becomes clearer because viewers can look at bar length rather than interpreting color gradients. The addition of percentage labels also makes it easier to read given that people read visuals from left to right. My goal with the title and subheading was to move beyond a neutral description and instead highlight a key takeaway for the audience. However, I found that my initial title and subheading were misaligned. Both attempted to make strong claims, but they were not fully supported or clearly connected to each other, which risked confusing the viewer rather than guiding them. Peer feedback reinforced this issue and also highlighted a lack of clarity around what the percentages represented. My peers mentioned that it was not immediately clear whether the values reflected frequency of use, preference, or survey response rates. This confusion weakens the visualization’s interpretability and credibility. As a result, in my final design, I refined both the labeling and framing of the chart. 
@@ -76,7 +81,6 @@ A few clear patterns came up in the feedback. First, people were confused about 
 <iframe title="Social Media Use Varies by Age, but YouTube Remains Universal" aria-label="Grouped Bars" id="datawrapper-chart-fA2jb" src="https://datawrapper.dwcdn.net/fA2jb/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="815" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
 
 ## References
-[_List any references you used here._]
 (https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213&cb_viewport=desktop#who-uses-each-social-media-platform)
 
 ## AI acknowledgements
