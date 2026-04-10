@@ -22,15 +22,14 @@ For my final project, I will focus on the WNBA's recent boom in revenue, attenda
 
 # Data 
 
-
 | Name | URL | Description |
 |------|-----|-------------|
-|Across the Timeline |[https://www.acrossthetimeline.com/] | Provides historical, game-by-game attendance data dating back to 1997. This will be used to establish the WNBA's baseline growth and visualize the sudden, and explosion in attendance in recent years.|
-|Sports Media Watch|[ https://www.sportsmediawatch.com/tag/wnba-ratings/:]|Offers historical national television ratings and league revenue estimates. I will use this to plot the recent spike in viewership.|
-|Sports Media Watch|[https://www.sportsmediawatch.com/tag/ncaa-womens-basketball-ratings/]|Provides NCAA women's tournament viewership data, including the 2024 final's 18.7 million viewers.|
-|Her Hoop Stats||[https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/]||Details the limitations of the previous WNBA system, such as the $1.5 million team salary cap. I will use this to prove that the historical wage gap was exacerbated by the WNBA's estimated ~9.3% revenue split compared to the NBA's ~50% split (using a consistent 2023–2025 comparison window)|
-|Sportarc||[https://www.spotrac.com/nba/]||Contains historical player contract data for both the NBA and WNBA. This will provide the drastic gap by contrasting the NBA's massive average salaries against the WNBA's historical averages under the old CBA.|
-|WNBA||[https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026]|| Given that the deal just happened this past month, there is not an extensive dataset that can be used. However, the report provided by the WNBA provides the terms of the brand-new 2026 Collective Bargaining Agreement, including the jump to a $7 million team cap and the new 20% revenue-sharing model.|
+| Across the Timeline | [https://www.acrossthetimeline.com/] | Provides historical, game-by-game attendance data dating back to 1997. This will be used to establish the WNBA's baseline growth and visualize the sudden explosion in attendance in recent years. |
+| Sports Media Watch | [https://www.sportsmediawatch.com/tag/wnba-ratings/] | Offers historical national television ratings and league revenue estimates. I will use this to plot the recent spike in viewership. |
+| Sports Media Watch | [https://www.sportsmediawatch.com/tag/ncaa-womens-basketball-ratings/] | Provides NCAA women's tournament viewership data, including the 2024 final's 18.7 million viewers. |
+| Her Hoop Stats | [https://herhoopstats.com/salary-cap-sheet/wnba/summary/2025/] | Details the limitations of the previous WNBA system, such as the $1.5 million team salary cap. I will use this to prove that the historical wage gap was exacerbated by the WNBA's estimated ~9.3% revenue split compared to the NBA's ~50% split (using a consistent 2023–2025 comparison window). |
+| Spotrac | [https://www.spotrac.com/nba/] | Contains historical player contract data for both the NBA and WNBA. This will provide the drastic gap by contrasting the NBA's massive average salaries against the WNBA's historical averages under the old CBA. |
+| WNBA | [https://www.wnba.com/news/wnba-wnbpa-tentative-cba-deal-2026] | Given that the deal just happened this past month, there is not an extensive dataset that can be used. However, the report provided by the WNBA provides the terms of the brand-new 2026 Collective Bargaining Agreement, including the jump to a $7 million team cap and the new 20% revenue-sharing model. |
 
 
 # Method and medium
