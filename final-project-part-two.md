@@ -2,12 +2,71 @@
 
 # Wireframes / storyboards
 
-<div class='tableauPlaceholder' id='viz1776315054348' style='position: relative'><noscript><a href='#'><img alt='NCAA Historic Gap ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAAHistoricGap&#47;NCAAHistoricGap&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NCAAHistoricGap&#47;NCAAHistoricGap' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NC&#47;NCAAHistoricGap&#47;NCAAHistoricGap&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1776315054348');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='1600px';vizElement.style.width='100%';vizElement.style.minHeight='827px';vizElement.style.maxHeight='1227px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='1600px';vizElement.style.width='100%';vizElement.style.minHeight='827px';vizElement.style.maxHeight='1227px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visualizations</title>
+</head>
 
+<body style="font-family: Arial, sans-serif; margin: 40px;">
 
-<div class='tableauPlaceholder' id='viz1776315033353' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 (2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4B&#47;4BTNNFW59&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;4BTNNFW59' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4B&#47;4BTNNFW59&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1776315033353');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='1600px';vizElement.style.width='100%';vizElement.style.minHeight='827px';vizElement.style.maxHeight='1227px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.minWidth='1000px';vizElement.style.maxWidth='1600px';vizElement.style.width='100%';vizElement.style.minHeight='827px';vizElement.style.maxHeight='1227px';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<h1>Visualizations</h1>
 
-<div class='tableauPlaceholder' id='viz1776314992751' style='position: relative'><noscript><a href='#'><img alt='WNBA Attendance Has Nearly Quadrupled Since 2021 Average game attendance jumped from 2.6k to 9.8k ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;at&#47;attendancewnba&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='attendancewnba&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;at&#47;attendancewnba&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1776314992751');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<!-- ===================== VISUAL 1 ===================== -->
+<h2>Visual 1: NCAA Historic Gap</h2>
+
+<div class='tableauPlaceholder' id='viz1' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img src='https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1.png' />
+        </a>
+    </noscript>
+    <object class='tableauViz'>
+        <param name='host_url' value='https://public.tableau.com/' />
+        <param name='name' value='NCAAHistoricGap/NCAAHistoricGap' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+    </object>
+</div>
+
+<!-- ===================== VISUAL 2 ===================== -->
+<h2> Visual 2: Dashboard</h2>
+
+<div class='tableauPlaceholder' id='viz2' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img src='https://public.tableau.com/static/images/4B/4BTNNFW59/1.png' />
+        </a>
+    </noscript>
+    <object class='tableauViz'>
+        <param name='host_url' value='https://public.tableau.com/' />
+        <param name='path' value='shared/4BTNNFW59' />
+        <param name='toolbar' value='yes' />
+    </object>
+</div>
+
+<!-- ===================== VISUAL 3 ===================== -->
+<h2>📊 Visual : WNBA Attendance Growth</h2>
+
+<div class='tableauPlaceholder' id='viz3' style='position: relative'>
+    <noscript>
+        <a href='#'>
+            <img src='https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png' />
+        </a>
+    </noscript>
+    <object class='tableauViz'>
+        <param name='host_url' value='https://public.tableau.com/' />
+        <param name='name' value='attendancewnba/Sheet1' />
+        <param name='tabs' value='no' />
+        <param name='toolbar' value='yes' />
+    </object>
+</div>
+
+<!-- SINGLE SCRIPT FOR ALL VISUALS -->
+<script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script>
+
+</body>
+</html>
 
 
 
