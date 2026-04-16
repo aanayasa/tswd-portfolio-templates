@@ -15,14 +15,26 @@ https://public.tableau.com/views/attendancewnba/Sheet1
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
-Text here!
+### 1. The Newcomer
+People who may recognize players like Caitlin Clark or Angel Reese but lack context about the WNBA or pay equity.
 
+- Why they matter: They test whether the story is clear and accessible.
+- Goal:Move them from unaware about this issue to informed by showing the growth and impact of investment in women’s sports.
+
+### 2.Superfans 
+WNBA fans, or sports fans, or those familiar with pay equity conversations.
+
+- Why they matter: They evaluate credibility and can tell if this tells the honest story of pay inequity and where data might not make sense. 
+- Goal:Provide insightful feedback, while also getting more specific critique to this issue area.
+  
+### 3. Data-focused Audience
+People interested in data visualization but not necessarily sports.
+- Goal: Get unbiased feedback from people with no sports knowledge but have knowledge on data visualizations and can provide honest, precise critique that comes from experience. 
+- 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
