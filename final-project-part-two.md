@@ -116,7 +116,11 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
 
-https://aanayasa.github.io/tswd-portfolio-templates/wnba-chart.html
+<iframe 
+  src="https://aanayasa.github.io/tswd-portfolio-templates/wnba-chart.html" 
+  width="100%" 
+  height="520">
+</iframe>
 
 # User research 
 
