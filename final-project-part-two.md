@@ -50,29 +50,39 @@ People interested in data visualization but not necessarily sports.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+## User Feedback Table
+
+| Questions | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+|----------|--------------------------------|-------------|-------------|
+| **At a glance, what do you think of this visual (Visual 1)?** | I really like the background image of the arena, but it feels distracting. | I think there are multiple stories here. I see that the women’s NCAA viewership surpasses the men’s, but I also see a gap before that, so I am not sure what I am supposed to focus on. | Maybe making the star at the intersection bigger would help that point stand out more. |
+| **What story does this tell?** | I can see that you are comparing women’s vs. men’s basketball, and from this visual it looks like women’s popularity is increasing while men’s stays around the same level. |  |  |
+| **Can you identify a trend that is going on here?** |  |  |  |
+| **What are your main takeaways from this visual?** |  |  |  |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+## Identified Changes for Part III
 
-Text here!
+For Part III, I have already made revisions to Visual 1 (NCAA Boom) based on feedback from my preliminary interviews.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
+I split the original visual into two separate visuals that use the same base design but highlight different stories.
+
+In the first version, I focus on the crossover point where women’s NCAA viewership surpasses men’s. I added an annotation at the intersection and increased the size of the star marker to make that moment more visible and easier to interpret.
+
+In the second version, I focus on the historical gap in viewership. I used arrows and annotations between the two lines to draw attention to the difference in viewership over time. I also kept the larger star at the intersection to maintain consistency across both visuals.
+
+These changes were made to address feedback that the original visual was trying to tell multiple stories at once. By separating them, each visual now communicates a single, clearer takeaway.
+
+## Research Synthesis
+
+| Research synthesis | Anticipated changes for Part III |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Viewers found the background image visually appealing but distracting from the data. | Simplify or remove the background image so the focus stays on the data rather than decorative elements. |
+| Viewers were confused because the visual was telling multiple stories at once (crossover vs. historical gap). | Split the original visual into two separate visuals, each focused on a single story. |
+| The crossover point where women’s viewership surpasses men’s was not immediately clear. | Emphasize the intersection by increasing the size of the marker and adding a clear annotation. |
+| The historical gap between men’s and women’s viewership was not clearly highlighted. | Add arrows and annotations between the lines to explicitly show and explain the gap over time. |
+| Viewers needed clearer guidance on what to focus on. | Use stronger annotations and visual cues to direct attention to the key takeaway in each version. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+> Final thoughts: The biggest takeaway from these interviews was that clarity matters more than complexity. My original visual tried to show too much at once, which made it harder to interpret. I will take this advice forward as I start to compile my other visuals together. 
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
@@ -83,5 +93,5 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Chatgpt was used for proper formatting on github and grammatical errors in text. 
 
