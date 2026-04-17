@@ -1,0 +1,100 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WNBA Attendance Growth</title>
+  <script src="https://cdn.plot.ly/plotly-3.4.0.min.js"></script>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: white;
+    }
+    #chart {
+      width: 100%;
+      max-width: 900px;
+      height: 520px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+
+  <script>
+    const years = [2021, 2022, 2023, 2024];
+    const attendance = [2620, 5646, 6615, 9807];
+
+    // layered fills to simulate a gradient
+    const base = {
+      x: years,
+      y: attendance,
+      type: "scatter",
+      mode: "lines",
+      line: { color: "rgba(0,0,0,0)", width: 0 },
+      fill: "tozeroy",
+      fillcolor: "rgba(255, 243, 176, 0.95)",
+      hoverinfo: "skip",
+      showlegend: false
+    };
+
+    const mid = {
+      x: years,
+      y: attendance,
+      type: "scatter",
+      mode: "lines",
+      line: { color: "rgba(0,0,0,0)", width: 0 },
+      fill: "tozeroy",
+      fillcolor: "rgba(249, 199, 79, 0.45)",
+      hoverinfo: "skip",
+      showlegend: false
+    };
+
+    const top = {
+      x: years,
+      y: attendance,
+      type: "scatter",
+      mode: "lines+markers+text",
+      line: { color: "#C2410C", width: 3 },
+      marker: { color: "#C2410C", size: 8 },
+      text: ["2.6K", "5.6K", "6.6K", "9.8K"],
+      textposition: "top center",
+      fill: "tozeroy",
+      fillcolor: "rgba(243, 114, 44, 0.18)",
+      hovertemplate: "<b>%{x}</b><br>Attendance: %{y:,}<extra></extra>",
+      showlegend: false
+    };
+
+    const layout = {
+      title: {
+        text: "WNBA Attendance Has Nearly Quadrupled Since 2021"
+      },
+      margin: { t: 70, r: 30, b: 60, l: 70 },
+      paper_bgcolor: "white",
+      plot_bgcolor: "white",
+      xaxis: {
+        tickmode: "array",
+        tickvals: years,
+        ticktext: ["2021", "2022", "2023", "2024"],
+        showgrid: false,
+        zeroline: false,
+        title: ""
+      },
+      yaxis: {
+        title: "Average attendance",
+        rangemode: "tozero",
+        gridcolor: "rgba(0,0,0,0.08)",
+        zeroline: false
+      },
+      hovermode: "x unified"
+    };
+
+    Plotly.newPlot("chart", [base, mid, top], layout, {
+      responsive: true,
+      displayModeBar: false
+    });
+  </script>
+</body>
+</html>
