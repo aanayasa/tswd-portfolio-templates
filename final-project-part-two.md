@@ -135,28 +135,27 @@
 </div>
 
 <h2>Visual 5: Revenue Court Split</h2>
-
-<div style="max-width: 1000px; margin: 24px auto;">
+<div style="max-width: 900px; margin: 24px auto;">
   <img 
-    src="https://github.com/user-attachments/assets/2da78a26-04ce-4721-a94a-7ab828062a6e" 
-    alt="NBA 50/50 revenue split model"
-    style="width: 100%; height: auto; border-radius: 12px;"
+    src="https://github.com/user-attachments/assets/2c942832-a4e8-4c13-81cb-564d9d1bf7da" 
+    alt="NBA revenue split court"
+    style="width: 100%; height: auto; display: block; border-radius: 12px;"
   >
 </div>
 
-<div style="max-width: 1000px; margin: 24px auto;">
+<div style="max-width: 900px; margin: 24px auto;">
   <img 
     src="https://github.com/user-attachments/assets/77ea76b9-9b59-4680-93e4-04c0e1d74d90" 
-    alt="WNBA previous CBA revenue split model"
-    style="width: 100%; height: auto; border-radius: 12px;"
+    alt="WNBA previous CBA revenue split court"
+    style="width: 100%; height: auto; display: block; border-radius: 12px;"
   >
 </div>
 
-<div style="max-width: 1000px; margin: 24px auto;">
+<div style="max-width: 900px; margin: 24px auto;">
   <img 
     src="https://github.com/user-attachments/assets/6c3399ab-43e4-4e09-a989-a5d5a3882419" 
-    alt="WNBA new 2026 CBA revenue split model"
-    style="width: 100%; height: auto; border-radius: 12px;"
+    alt="WNBA new 2026 CBA revenue split court"
+    style="width: 100%; height: auto; display: block; border-radius: 12px;"
   >
 </div>
 
