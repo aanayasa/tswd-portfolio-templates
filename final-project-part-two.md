@@ -116,11 +116,8 @@
 
 ## Visual 4: Pay Disparity 
 
-<img 
-  src="https://github.com/user-attachments/assets/ce06028c-94f3-431e-b346-44369ae3602e" 
-  alt="WNBA visualization cover"
-  style="width:100%; height:auto; border-radius:12px;"
->
+<img width="1536" height="1024" alt="ChatGPT Image Apr 21, 2026, 10_33_06 PM" src="https://github.com/user-attachments/assets/520de9c3-5141-4d1d-9b32-129cd713ee4f" />
+
 
 ## Visual 5: Revenue Court Split 
 
