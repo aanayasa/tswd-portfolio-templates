@@ -2,218 +2,212 @@
 
 # Wireframes / storyboards
 
-## Visual 1: NCAA Boom
+## Visual 1: NCAA Historical Gap 
 
-<div class='tableauPlaceholder' id='viz1776457525361' style='position: relative;'>
+<div class="tableauPlaceholder" id="tableau-ncaa-crossover" style="position: relative;">
   <noscript>
-    <a href='#'>
-      <img alt='NCAA Boom'
-           src='https://public.tableau.com/static/images/3F/3FS7QCX36/1_rss.png'
-           style='border: none;' />
+    <a href="#">
+      <img
+        alt="NCAA historic crossover moment"
+        src="https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAACrossOver/1_rss.png"
+        style="border: none;"
+      />
     </a>
   </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://public.tableau.com/' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='path' value='shared/3FS7QCX36' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/3F/3FS7QCX36/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
-    <param name='filter' value='publish=yes' />
+
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="NCAAHistoricGap/NCAACrossOver" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="no" />
+    <param name="static_image" value="https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAACrossOver/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
   </object>
 </div>
 
-<script type='text/javascript'>
-var divElement = document.getElementById('viz1776457525361');
-var vizElement = divElement.getElementsByTagName('object')[0];
-vizElement.style.width = '100%';
-vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-vizElement.parentNode.insertBefore(scriptElement, vizElement);
+<script type="text/javascript">
+  var divElement = document.getElementById("tableau-ncaa-crossover");
+  var vizElement = divElement.getElementsByTagName("object")[0];
+
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+  } else {
+    vizElement.style.width = "100%";
+    vizElement.style.height = "600px";
+  }
+
+  var scriptElement = document.createElement("script");
+  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Visual 2: NCAA Historic Gap
+## Visual 2: NCAA Historic Crossover 
 
-<div class='tableauPlaceholder' id='viz1776457579628' style='position: relative;'>
+<div class="tableauPlaceholder" id="tableau-wnba-growth" style="position: relative;">
   <noscript>
-    <a href='#'>
-      <img alt='NCAA Historic Gap'
-           src='https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1_rss.png'
-           style='border: none;' />
+    <a href="#">
+      <img
+        alt="WNBA growth in attendance and viewership"
+        src="https://public.tableau.com/static/images/vi/visual1_17760241540270/Dashboard12/1_rss.png"
+        style="border: none;"
+      />
     </a>
   </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://public.tableau.com/' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='NCAAHistoricGap/NCAAHistoricGap' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/NC/NCAAHistoricGap/NCAAHistoricGap/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
-    <param name='filter' value='publish=yes' />
+
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="visual1_17760241540270/Dashboard12" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="no" />
+    <param name="static_image" value="https://public.tableau.com/static/images/vi/visual1_17760241540270/Dashboard12/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
   </object>
 </div>
 
-<script type='text/javascript'>
-var divElement = document.getElementById('viz1776457579628');
-var vizElement = divElement.getElementsByTagName('object')[0];
-vizElement.style.width = '100%';
-vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-vizElement.parentNode.insertBefore(scriptElement, vizElement);
+<script type="text/javascript">
+  var divElement = document.getElementById("tableau-wnba-growth");
+  var vizElement = divElement.getElementsByTagName("object")[0];
+
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = "100%";
+    vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
+  } else {
+    vizElement.style.width = "100%";
+    vizElement.style.height = "600px";
+  }
+
+  var scriptElement = document.createElement("script");
+  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-## Visual 3: WNBA Attendance Growth
+## Visual 3: WNBA Viewership Boom 
 
-<div class='tableauPlaceholder' id='viz1776457631571' style='position: relative;'>
+## Visual 4: Pay Disparity 
+
+## Visual 5: Revenue Court Split 
+
+## Visual 6: CBA Max Salaries Throughout the Years
+
+<div class="tableauPlaceholder" id="tableau-cba-part2" style="position: relative;">
   <noscript>
-    <a href='#'>
-      <img alt='WNBA Attendance Has Nearly Quadrupled Since 2021 Average game attendance jumped from 2.6k to 9.8k'
-           src='https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1_rss.png'
-           style='border: none;' />
+    <a href="#">
+      <img
+        alt="CBA salaries throughout the years (part 2)"
+        src="https://public.tableau.com/static/images/cb/cbasthroughouttheyears/cbapart2/1_rss.png"
+        style="border: none;"
+      />
     </a>
   </noscript>
-  <object class='tableauViz' style='display:none;'>
-    <param name='host_url' value='https://public.tableau.com/' />
-    <param name='embed_code_version' value='3' />
-    <param name='site_root' value='' />
-    <param name='name' value='attendancewnba/Sheet1' />
-    <param name='tabs' value='no' />
-    <param name='toolbar' value='yes' />
-    <param name='static_image' value='https://public.tableau.com/static/images/at/attendancewnba/Sheet1/1.png' />
-    <param name='animate_transition' value='yes' />
-    <param name='display_static_image' value='yes' />
-    <param name='display_spinner' value='yes' />
-    <param name='display_overlay' value='yes' />
-    <param name='display_count' value='yes' />
-    <param name='language' value='en-US' />
-    <param name='filter' value='publish=yes' />
+
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="cbasthroughouttheyears/cbapart2" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/cb/cbasthroughouttheyears/cbapart2/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
   </object>
 </div>
 
-<script type='text/javascript'>
-var divElement = document.getElementById('viz1776457631571');
-var vizElement = divElement.getElementsByTagName('object')[0];
-vizElement.style.width = '100%';
-vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
-var scriptElement = document.createElement('script');
-scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
-vizElement.parentNode.insertBefore(scriptElement, vizElement);
+<script type="text/javascript">
+  var divElement = document.getElementById("tableau-cba-part2");
+  var vizElement = divElement.getElementsByTagName("object")[0];
+
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = "1100px";
+    vizElement.style.height = "627px";
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = "1100px";
+    vizElement.style.height = "627px";
+  } else {
+    vizElement.style.width = "100%";
+    vizElement.style.height = "727px";
+  }
+
+  var scriptElement = document.createElement("script");
+  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>WNBA Attendance Growth</title>
-  <script src="https://cdn.plot.ly/plotly-3.4.0.min.js"></script>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: white;
-    }
-    #chart {
-      width: 100%;
-      max-width: 900px;
-      height: 520px;
-      margin: 0 auto;
-    }
-  </style>
-</head>
-<body>
-  <div id="chart"></div>
+## Visual 7: CBA Max Salary 2026 Deal 
 
-  <script>
-    const years = [2021, 2022, 2023, 2024];
-    const attendance = [2620, 5646, 6615, 9807];
+<div class="tableauPlaceholder" id="tableau-cba-salaries" style="position: relative;">
+  <noscript>
+    <a href="#">
+      <img
+        alt="CBA max salaries throughout the years"
+        src="https://public.tableau.com/static/images/cb/cba2026/newdeal/1_rss.png"
+        style="border: none;"
+      />
+    </a>
+  </noscript>
 
-    // layered fills to simulate a gradient
-    const base = {
-      x: years,
-      y: attendance,
-      type: "scatter",
-      mode: "lines",
-      line: { color: "rgba(0,0,0,0)", width: 0 },
-      fill: "tozeroy",
-      fillcolor: "rgba(255, 243, 176, 0.95)",
-      hoverinfo: "skip",
-      showlegend: false
-    };
+  <object class="tableauViz" style="display:none;">
+    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" />
+    <param name="embed_code_version" value="3" />
+    <param name="site_root" value="" />
+    <param name="name" value="cba2026/newdeal" />
+    <param name="tabs" value="no" />
+    <param name="toolbar" value="yes" />
+    <param name="static_image" value="https://public.tableau.com/static/images/cb/cba2026/newdeal/1.png" />
+    <param name="animate_transition" value="yes" />
+    <param name="display_static_image" value="yes" />
+    <param name="display_spinner" value="yes" />
+    <param name="display_overlay" value="yes" />
+    <param name="display_count" value="yes" />
+    <param name="language" value="en-US" />
+  </object>
+</div>
 
-    const mid = {
-      x: years,
-      y: attendance,
-      type: "scatter",
-      mode: "lines",
-      line: { color: "rgba(0,0,0,0)", width: 0 },
-      fill: "tozeroy",
-      fillcolor: "rgba(249, 199, 79, 0.45)",
-      hoverinfo: "skip",
-      showlegend: false
-    };
+<script type="text/javascript">
+  var divElement = document.getElementById("tableau-cba-salaries");
+  var vizElement = divElement.getElementsByTagName("object")[0];
 
-    const top = {
-      x: years,
-      y: attendance,
-      type: "scatter",
-      mode: "lines+markers+text",
-      line: { color: "#C2410C", width: 3 },
-      marker: { color: "#C2410C", size: 8 },
-      text: ["2.6K", "5.6K", "6.6K", "9.8K"],
-      textposition: "top center",
-      fill: "tozeroy",
-      fillcolor: "rgba(243, 114, 44, 0.18)",
-      hovertemplate: "<b>%{x}</b><br>Attendance: %{y:,}<extra></extra>",
-      showlegend: false
-    };
+  if (divElement.offsetWidth > 800) {
+    vizElement.style.width = "1100px";
+    vizElement.style.height = "627px";
+  } else if (divElement.offsetWidth > 500) {
+    vizElement.style.width = "1100px";
+    vizElement.style.height = "627px";
+  } else {
+    vizElement.style.width = "100%";
+    vizElement.style.height = "727px";
+  }
 
-    const layout = {
-      title: {
-        text: "WNBA Attendance Has Nearly Quadrupled Since 2021"
-      },
-      margin: { t: 70, r: 30, b: 60, l: 70 },
-      paper_bgcolor: "white",
-      plot_bgcolor: "white",
-      xaxis: {
-        tickmode: "array",
-        tickvals: years,
-        ticktext: ["2021", "2022", "2023", "2024"],
-        showgrid: false,
-        zeroline: false,
-        title: ""
-      },
-      yaxis: {
-        title: "Average attendance",
-        rangemode: "tozero",
-        gridcolor: "rgba(0,0,0,0.08)",
-        zeroline: false
-      },
-      hovermode: "x unified"
-    };
+  var scriptElement = document.createElement("script");
+  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
-    Plotly.newPlot("chart", [base, mid, top], layout, {
-      responsive: true,
-      displayModeBar: false
-    });
-  </script>
-</body>
-</html>
 
 # User research 
 
