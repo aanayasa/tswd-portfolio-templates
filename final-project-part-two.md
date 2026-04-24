@@ -133,7 +133,6 @@ The split court was an idea that remained consistent even after my initial sketc
 
 It was important for me to include three separate courts: one representing the NBA model, one showing the previous WNBA CBA, and one illustrating the new agreement. This structure allows for a clear comparison across systems. Rather than focusing on absolute dollar amounts, this visual shifts the focus to how revenue is distributed, highlighting the structural differences in pay. Ultimately, it emphasizes that the issue is not just about how much players earn, but how revenue is split and what constitutes a fair share.
 
-<h2>Visual 5: Revenue Court Split</h2>
 <div style="max-width: 900px; margin: 24px auto;">
   <img 
     src="https://github.com/user-attachments/assets/2c942832-a4e8-4c13-81cb-564d9d1bf7da" 
@@ -298,29 +297,23 @@ People interested in data visualization but not necessarily sports.
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
 ## User Feedback Table
 
-| Questions | Interview 1 (Visuals 4 & 5: Pay Disparity + Revenue Courts) | Interview 2 (Visuals 4 & 5: Pay Disparity + Revenue Courts) | Interview 3 (Visuals 4 & 5: Pay Disparity + Revenue Courts) |
-|----------|-------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| **At a glance, what do you think of these visuals?** | The court visual is really creative and stands out, and the basketball chart is easy to understand quickly. | Both visuals are very intuitive. I immediately understood that it was about pay differences and revenue splits. | The visuals are engaging and easy to read, especially the court and basketball ones. They stand out compared to the others. |
-| **What story do these visuals tell?** | They show that there is a large pay disparity and that it comes from how revenue is split between players and the league. | The visuals explain that the issue is structural, not just about salary, but about how revenue is divided. | It tells a story about inequality in pay and shows that even with a new deal, the split is still not equal. |
-| **Can you identify a trend that is going on here?** | The revenue split improves slightly for the WNBA over time, but still remains far from the NBA model. | There is a shift in the new CBA, but the gap between NBA and WNBA is still large. | The trend shows some progress, but not enough to reach parity. |
-| **On a scale of 1–10, how easy was it to find the key data points?** | 8 – It was easy to understand overall, but small design choices made it slightly distracting at first. | 7 – Clear, but I had to take a second to fully process the court visual. | 10 – Very clear and intuitive, especially the pictograph. |
-| **What are your main takeaways from these visuals?** | The disparity is significant, and the way revenue is split is the main reason why. | Even though things are improving, the system is still not equal. | The visuals clearly show why pay disparity exists and why it matters now. |
-| **Is there something you wish you had more information on?** | I would like to see what happens next or how this could change in the future. | It would be helpful to see how fan engagement or revenue growth impacts these splits. | A forward-looking visual showing potential outcomes or next steps would strengthen the story. |
-| **Are the sizes of text, lines, and shapes appropriate?** | Overall good, but the original font choice (Comic Sans) felt distracting and less professional. | The sizing works well, but the design could be slightly more polished. | Everything is readable and clear, especially in the basketball visual. |
-| **Do the colors fit well with the story?** | The colors are clear, but I expected a stronger distinction between NBA and WNBA. | It might help to differentiate the leagues with color, but it is still understandable without it. | The consistent colors work, but adding variation could make comparisons clearer. |
-| **Are the images distracting?** | The font was more distracting than the images themselves. | No, the visuals are engaging without being overwhelming. | No, the visuals are clean and easy to follow. |
-| **Do you think this is an appropriate visual to showcase the information?** | Yes, especially the court and basketball visuals—they make the concept easy to grasp. | Yes, they are effective and communicate the message clearly. | Yes, these are the strongest visuals in the project. |
-| **If not, would there be another graph that would help you understand this better?** | Maybe a follow-up visual showing future projections or outcomes. | A visual connecting revenue growth to player pay would help. | Something showing the impact of increased viewership on revenue splits would improve the conclusion. |
-| **Can you identify what the main story or issue is?** | The main issue is pay disparity driven by unequal revenue sharing. | The story is about structural inequality in how revenue is distributed. | It highlights that the system, not just salaries, is the root of the disparity. |
-| **What kind of story is it telling?** | A comparative and explanatory story about why the gap exists. | A structural story explaining how contracts shape pay. | A story about inequality and gradual progress. |
-| **Does this change the way you think about the WNBA, women’s sports, or pay equity?** | Yes, it shows that the issue is more complex than just popularity. | Yes, it made me think more about how revenue structures impact fairness. | Yes, it highlights that even with growth, structural barriers still exist. |
+| Questions | Interview Feedback |
+|----------|-------------------|
+| **At a glance, what is the first thing you notice about this visual? (Visual 1)** | This is a cool visual with the arena background, but my attention immediately goes to the image rather than the data being shown. |
+| **What is this visual about? (Visual 2)** | This visual is about viewership growth in the WNBA, and it was very intuitive to understand. |
+| **Evaluate ability to identify trends and key data (Visual 3)** | I like the use of basketballs to depict salary. At a glance, I focus more on the number of balls rather than the actual dollar amounts. It is clear that men make more, but I then have to look more closely to understand what each ball represents in terms of dollars. |
+| **Can you define a trend that’s going on here? (Visuals 1 & 2)** | In Visual 1, women’s NCAA viewership is steadily increasing, with a large spike around 2024. Visual 2 shows a similar trend but does a better job highlighting how dramatic the increase is between 2022 and 2024. |
+| **On a scale of 1–10, how easy was it to find the key data points?** | Visual 1: 10<br>Visual 4: 7<br>Visual 6: 8 |
+| **What are your main takeaways from this visual? (Court visual / Visual 5)** | This is a strong visual because it focuses on revenue split rather than dollar amounts. It is a more dramatic and engaging way to show the disparity and leaves a lasting impression on the viewer. |
+| **Is there something on here you wish you had more information on?** | I wish there was more explanation for why the revenue split is so drastically different compared to the NBA. |
+| **Are the sizes of text, lines, and shapes appropriate?** | The original court visual used Comic Sans, which felt distracting and less professional. |
+| **Do the colors fit well with the story?** | I like that the visuals use blue and orange, which feel consistent with the NBA theme. |
+| **Are the images distracting?** | The arena background in the first visuals is slightly distracting, even though it is visually appealing. It raises the question of what the background is meant to represent. |
+| **What kind of story is it telling?** | The visuals follow a strong narrative flow. They start with the NCAA and Caitlin Clark as a catalyst, then show how that momentum carries into the WNBA, followed by the pay disparity, and finally explain the structural issue through the CBA and revenue split. |
+| **Does this change the way you think about the WNBA, women’s sports, or pay equity?** | Yes, it makes me more interested in supporting women’s sports. As someone with little prior knowledge, I previously thought the issue was about matching NBA salaries despite lower popularity. Now I understand that the real issue is about how revenue is shared, not just the total amount. |
 
-
-## Identified Changes for Part III
 
 ## Identified Changes for Part III
 
@@ -344,24 +337,11 @@ Finally, a key gap identified across interviews was the lack of a forward-lookin
 | The historical gap between men’s and women’s viewership was not clearly highlighted. | Add arrows and annotations between the lines to explicitly show and explain the gap over time. |
 | Viewers needed clearer guidance on what to focus on. | Use stronger annotations and visual cues to direct attention to the key takeaway in each version. |
 | The split court visual was engaging but the font choice felt distracting and unprofessional. | Replace Comic Sans with a more neutral, professional font while maintaining the visual concept. |
-| Some viewers suggested using different colors for NBA vs. WNBA comparisons. | Maintain a consistent color scheme to reinforce that the comparison is based on the same metric (revenue split) and avoid unnecessary distraction. |
 | The court and basketball visuals were the most intuitive and memorable. | Preserve these designs as core visuals and use them as anchors for audience engagement. |
 | More traditional charts were clear but lacked the same level of creativity. | Maintain clarity in these visuals while considering subtle design improvements for consistency across the project. |
-| The visuals clearly explain the “why now” and the issue of pay disparity, but lack a forward-looking conclusion. | Develop an additional visual that explores future implications, such as how increased revenue or fan engagement could impact revenue splits or player compensation. |
 
 > **Final thoughts:** The biggest takeaway from these interviews was that clarity matters more than complexity, but engagement also plays a critical role. My original visual attempted to show too much at once, which made it harder to interpret. Moving forward, I prioritized separating ideas into distinct visuals while maintaining a cohesive narrative. At the same time, I recognized the importance of balancing clarity with creativity and ensuring that the project not only explains the issue, but also points toward its broader implications.
 
-## Research Synthesis
-
-| Research synthesis | Anticipated changes for Part III |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Viewers found the background image visually appealing but distracting from the data. | Simplify or remove the background image so the focus stays on the data rather than decorative elements. |
-| Viewers were confused because the visual was telling multiple stories at once (crossover vs. historical gap). | Split the original visual into two separate visuals, each focused on a single story. |
-| The crossover point where women’s viewership surpasses men’s was not immediately clear. | Emphasize the intersection by increasing the size of the marker and adding a clear annotation. |
-| The historical gap between men’s and women’s viewership was not clearly highlighted. | Add arrows and annotations between the lines to explicitly show and explain the gap over time. |
-| Viewers needed clearer guidance on what to focus on. | Use stronger annotations and visual cues to direct attention to the key takeaway in each version. |
-
-> Final thoughts: The biggest takeaway from these interviews was that clarity matters more than complexity. My original visual tried to show too much at once, which made it harder to interpret. I will take this advice forward as I start to compile my other visuals together. 
 
 ## References
 _List any references you used here._
