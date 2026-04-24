@@ -1,4 +1,4 @@
-| [home page](https://aanayasa.github.io/Andrea-s-Portfolio-/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://aanayasa.github.io/Andrea-s-Portfolio-/) | [Data Viz Examples](https://aanayasa.github.io/Andrea-s-Portfolio-/dataviz-examples) | [Critique by Design](https://aanayasa.github.io/Andrea-s-Portfolio-/critique-by-design) | [Final Project I](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-one) | [Final Project II](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-two) | [Final Project III](https://aanayasa.github.io/Andrea-s-Portfolio-/final-project-part-three) |
 Web page URL: https://aanayasa.github.io/Andrea-s-Portfolio-/
   
 # Portfolio
